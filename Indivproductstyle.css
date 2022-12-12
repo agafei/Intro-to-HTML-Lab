@@ -1,0 +1,30 @@
+.product-image {
+  height: 300px;
+  padding: 10px 10px 10px 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+body{
+  margin: 0;
+  font-family: tahoma;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #efe4d4;
+}
+
+table {
+  align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td, th {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
